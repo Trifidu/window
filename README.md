@@ -14,4 +14,4 @@
 
 ## Link
 
-[versel-window](https://window-two.vercel.app)
+[vercel-window](https://window-two.vercel.app)
